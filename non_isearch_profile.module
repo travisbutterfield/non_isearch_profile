@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the Non-iSearch Profile feature.
+ */
+
+include_once 'non_isearch_profile.features.inc';
